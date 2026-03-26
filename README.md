@@ -1,2 +1,3 @@
-# Algorithm-Design-term-project
-Create to store the data of all students
+# Algorithm-Design-term-project"
+Wachiraporn Srichaipanya
+685380004-1
